@@ -7,14 +7,147 @@
     },
 
     {
-    	"id": 2,
-    	"title": "Sherlock Holmes",
-    	"author": "Sir Arthur Conane Doyle"
+      "id": 2,
+      "title": "The Adventures of Captain Hatteras",
+      "author": "Jules Verne"
     },
+
     {
-    	"id": 3,
-    	"title": "Sherlock",
-    	"author": "Sir Arthur Conane Doyle"
+      "id": 3,
+      "title": "An Antarctic Mystery",
+      "author": "Jules Verne"
+    },
+
+    {
+      "id": 4,
+      "title": "Around the Moon",
+      "author": "Jules Verne"
+    },
+
+    {
+      "id": 5,
+      "title": "Around the World in Eighty Days",
+      "author": "Jules Verne"
+    },
+
+    {
+      "id": 6,
+      "title": "Backwards to Britain",
+      "author": "Jules Verne"
+    },
+
+    {
+      "id": 7,
+      "title": "Eight Hundred Leagues on he Amazon",
+      "autor": "Jules Verne"
+    },
+
+    {
+      "id": 8,
+      "title": "Family without a Name",
+      "author": "Jules Verne"
+    },
+
+    {
+      "id": 9,
+      "title": "A floating city",
+      "author": "Jules Verne"
+    },
+
+    {
+      "id": 10,
+      "title": "Journey to the center of the Earth",
+      "author": "Jules Verne"
+    },
+
+    {
+      "id": 11,
+      "title": "The Lighthouse at the End of the World",
+      "author": "Jules Verne"
+    },
+
+    {
+      "id": 12,
+      "title": "The Lottery Ticket",
+      "author": "Jules Verne"
+    },
+
+    {
+      "id": 13,
+      "title": "The Steam House",
+      "author": "Jules Verne"
+    },
+
+    {
+      "id": 14,
+      "title": "A Scandal in Bohemia",
+      "author": "Sir Arthur Conan Doyle"
+    },
+
+    {
+      "id": 15,
+      "title": "The Red-Headed League",
+      "author": "Sir Arthur Conan Doyle"
+    },
+
+    {
+      "id": 16,
+      "title": "A Case of Identity",
+      "author": "Sir Arthur Conan Doyle"
+    },
+
+    {
+      "id": 17,
+      "title": "The Boscombe Valley Mystery",
+      "author": "Sir Arthur Conan Doyle"
+    },
+
+    {
+      "id": 18,
+      "title": "The Five Orange Pips",
+      "author": "Sir Arthur Conan Doyle"
+    },
+
+    {
+      "id": 19,
+      "title": "The Man with the Twisted Lip",
+      "author": "Sir Arthur Conan Doyle"
+    },
+
+    {
+      "id": 20,
+      "title": "The Adventure of the Blue Carbuncle",
+      "author": "Sir Arthur Conan Doyle"
+    },
+
+    {
+      "id": 21,
+      "title": "The Adventure of the Speckled Band",
+      "author": "Sir Arthur Conan Doyle"
+    },
+
+    {
+      "id": 22,
+      "title": "The Adventure of the Engineer's Thumb",
+      "author": "Sir Arthur Conan Doyle"
+    },
+
+    {
+      "id": 23,
+      "title": "The Adventure of the Noble Bachelor",
+      "author": "Sir Arthur Conan Doyle"
+    },
+
+    {
+      "id": 24,
+      "title": "The Adventure of the Beryl Coronet",
+      "author": "Sir Arthur Conan Doyle"
+    },
+
+    {
+      "id": 25,
+      "title": "The Adventure of the Copper Beeches",
+      "author": "Sir Arthur Conan Doyle"
     }
     
   ],
