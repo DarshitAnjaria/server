@@ -38,7 +38,7 @@
 
     {
       "id": 7,
-      "title": "Eight Hundred Leagues on he Amazon",
+      "title": "Eight Hundred Leagues on the Amazon",
       "autor": "Jules Verne"
     },
 
@@ -148,6 +148,72 @@
       "id": 25,
       "title": "The Adventure of the Copper Beeches",
       "author": "Sir Arthur Conan Doyle"
+    },
+
+    {
+    	"id": 26,
+    	"title": "Silver Blaze",
+    	"author": "Sir Arthur Conan Doyle"
+    },
+
+    {
+    	"id": 27,
+    	"title": "Yellow Face",
+    	"author": "Sir Arthur Conan Doyle"
+    },
+
+    {
+    	"id": 28,
+    	"title": "The Stockbroker's Clerk",
+    	"author": "Sir Arthur Conan Doyle"
+    },
+
+    {
+    	"id": 29,
+    	"title": "The “Gloria Scott”",
+    	"author": "Sir Arthur Conan Doyle"
+    },
+
+    {
+    	"id": 30,
+    	"title": "The Musgrave Ritual",
+    	"author": "Sir Arthur Conan Doyle"
+    },
+
+    {
+    	"id": 31,
+    	"title": "The Reigate Puzzle",
+    	"author": "Sir Arthur Conan Doyle"
+    },
+
+    {
+    	"id": 32,
+    	"title": "The Crooked Man",
+    	"author": "Sir Arthur Conan Doyle"
+    },
+
+    {
+    	"id": 33,
+    	"title": "The Resident Patient",
+    	"author": "Sir Arthur Conan Doyle"
+    },
+
+    {
+    	"id": 34,
+    	"title": "The Greek Interpreter",
+    	"author": "Sir Arthur Conan Doyle"
+    },
+
+    {
+    	"id": 35,
+    	"title": "The Naval Treaty",
+    	"author": "Sir Arthur Conan Doyle"
+    },
+
+    {
+    	"id": 36,
+    	"title": "The Final Problem",
+    	"author": "Sir Arthur Conan Doyle"
     }
     
   ],
