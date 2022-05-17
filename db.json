@@ -1,5 +1,5 @@
 {
-  "books": [
+  "data": [
     {
       "id": 1,
       "title": "json-server",
@@ -211,16 +211,4 @@
     }
     
   ],
-  
-  "reviews": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "bookId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-
 }
