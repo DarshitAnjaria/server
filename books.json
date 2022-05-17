@@ -1,0 +1,228 @@
+{
+  "success":true,
+  "message":"List of books",
+  "data": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode",
+      "url": "https://cdn.iconscout.com/icon/premium/png-256-thumb/json-18-695417.png"
+    },
+
+    {
+      "id": 2,
+      "title": "The Adventures of Captain Hatteras",
+      "author": "Jules Verne",
+      "url": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTE4MDAzNDEwNzEzNjc1Mjc4/jules-verne-9517579-1-402.jpg"
+    },
+
+    {
+      "id": 3,
+      "title": "An Antarctic Mystery",
+      "author": "Jules Verne",
+      "url": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTE4MDAzNDEwNzEzNjc1Mjc4/jules-verne-9517579-1-402.jpg"
+    },
+
+    {
+      "id": 4,
+      "title": "Around the Moon",
+      "author": "Jules Verne",
+      "url": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTE4MDAzNDEwNzEzNjc1Mjc4/jules-verne-9517579-1-402.jpg"
+    },
+
+    {
+      "id": 5,
+      "title": "Around the World in Eighty Days",
+      "author": "Jules Verne",
+      "url": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTE4MDAzNDEwNzEzNjc1Mjc4/jules-verne-9517579-1-402.jpg"
+    },
+
+    {
+      "id": 6,
+      "title": "Backwards to Britain",
+      "author": "Jules Verne",
+      "url": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTE4MDAzNDEwNzEzNjc1Mjc4/jules-verne-9517579-1-402.jpg"
+    },
+
+    {
+      "id": 7,
+      "title": "Eight Hundred Leagues on the Amazon",
+      "author": "Jules Verne",
+      "url": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTE4MDAzNDEwNzEzNjc1Mjc4/jules-verne-9517579-1-402.jpg"
+    },
+
+    {
+      "id": 8,
+      "title": "Family without a Name",
+      "author": "Jules Verne",
+      "url": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTE4MDAzNDEwNzEzNjc1Mjc4/jules-verne-9517579-1-402.jpg"
+    },
+
+    {
+      "id": 9,
+      "title": "A floating city",
+      "author": "Jules Verne",
+      "url": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTE4MDAzNDEwNzEzNjc1Mjc4/jules-verne-9517579-1-402.jpg"
+    },
+
+    {
+      "id": 10,
+      "title": "Journey to the center of the Earth",
+      "author": "Jules Verne",
+      "url": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTE4MDAzNDEwNzEzNjc1Mjc4/jules-verne-9517579-1-402.jpg"
+    },
+
+    {
+      "id": 11,
+      "title": "The Lighthouse at the End of the World",
+      "author": "Jules Verne",
+      "url": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTE4MDAzNDEwNzEzNjc1Mjc4/jules-verne-9517579-1-402.jpg"
+    },
+
+    {
+      "id": 12,
+      "title": "The Lottery Ticket",
+      "author": "Jules Verne",
+      "url": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTE4MDAzNDEwNzEzNjc1Mjc4/jules-verne-9517579-1-402.jpg"
+    },
+
+    {
+      "id": 13,
+      "title": "The Steam House",
+      "author": "Jules Verne",
+      "url": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTE4MDAzNDEwNzEzNjc1Mjc4/jules-verne-9517579-1-402.jpg"
+    },
+
+    {
+      "id": 14,
+      "title": "A Scandal in Bohemia",
+      "author": "Sir Arthur Conan Doyle",
+      "url": "https://www.thetimes.co.uk/imageserver/image/methode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F2949f962-6e2e-11e8-b8aa-6e92c706c88b.jpg?crop=2508%2C1411%2C0%2C0&resize=685"
+    },
+
+    {
+      "id": 15,
+      "title": "The Red-Headed League",
+      "author": "Sir Arthur Conan Doyle",
+      "url": "https://www.thetimes.co.uk/imageserver/image/methode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F2949f962-6e2e-11e8-b8aa-6e92c706c88b.jpg?crop=2508%2C1411%2C0%2C0&resize=685"
+    },
+
+    {
+      "id": 16,
+      "title": "A Case of Identity",
+      "author": "Sir Arthur Conan Doyle",
+      "url": "https://www.thetimes.co.uk/imageserver/image/methode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F2949f962-6e2e-11e8-b8aa-6e92c706c88b.jpg?crop=2508%2C1411%2C0%2C0&resize=685"
+    },
+
+    {
+      "id": 17,
+      "title": "The Boscombe Valley Mystery",
+      "author": "Sir Arthur Conan Doyle",
+      "url": "https://www.thetimes.co.uk/imageserver/image/methode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F2949f962-6e2e-11e8-b8aa-6e92c706c88b.jpg?crop=2508%2C1411%2C0%2C0&resize=685"
+    },
+
+    {
+      "id": 18,
+      "title": "The Five Orange Pips",
+      "author": "Sir Arthur Conan Doyle",
+      "url": "https://www.thetimes.co.uk/imageserver/image/methode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F2949f962-6e2e-11e8-b8aa-6e92c706c88b.jpg?crop=2508%2C1411%2C0%2C0&resize=685"
+    },
+
+    {
+      "id": 19,
+      "title": "The Man with the Twisted Lip",
+      "author": "Sir Arthur Conan Doyle",
+      "url": "https://www.thetimes.co.uk/imageserver/image/methode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F2949f962-6e2e-11e8-b8aa-6e92c706c88b.jpg?crop=2508%2C1411%2C0%2C0&resize=685"
+    },
+
+    {
+      "id": 20,
+      "title": "The Adventure of the Blue Carbuncle",
+      "author": "Sir Arthur Conan Doyle",
+      "url": "https://www.thetimes.co.uk/imageserver/image/methode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F2949f962-6e2e-11e8-b8aa-6e92c706c88b.jpg?crop=2508%2C1411%2C0%2C0&resize=685"
+    },
+
+    {
+      "id": 21,
+      "title": "The Adventure of the Speckled Band",
+      "author": "Sir Arthur Conan Doyle",
+      "url": "https://www.thetimes.co.uk/imageserver/image/methode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F2949f962-6e2e-11e8-b8aa-6e92c706c88b.jpg?crop=2508%2C1411%2C0%2C0&resize=685"
+    },
+
+    {
+      "id": 22,
+      "title": "The Adventure of the Engineer's Thumb",
+      "author": "Sir Arthur Conan Doyle",
+      "url": "https://www.thetimes.co.uk/imageserver/image/methode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F2949f962-6e2e-11e8-b8aa-6e92c706c88b.jpg?crop=2508%2C1411%2C0%2C0&resize=685"
+    },
+
+    {
+      "id": 23,
+      "title": "The Adventure of the Noble Bachelor",
+      "author": "Sir Arthur Conan Doyle",
+      "url": "https://www.thetimes.co.uk/imageserver/image/methode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F2949f962-6e2e-11e8-b8aa-6e92c706c88b.jpg?crop=2508%2C1411%2C0%2C0&resize=685"
+    },
+
+    {
+      "id": 24,
+      "title": "The Adventure of the Beryl Coronet",
+      "author": "Sir Arthur Conan Doyle",
+      "url": "https://www.thetimes.co.uk/imageserver/image/methode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F2949f962-6e2e-11e8-b8aa-6e92c706c88b.jpg?crop=2508%2C1411%2C0%2C0&resize=685"
+    },
+
+    {
+      "id": 25,
+      "title": "The Adventure of the Copper Beeches",
+      "author": "Sir Arthur Conan Doyle",
+      "url": "https://www.thetimes.co.uk/imageserver/image/methode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F2949f962-6e2e-11e8-b8aa-6e92c706c88b.jpg?crop=2508%2C1411%2C0%2C0&resize=685"
+    },
+
+    {
+    	"id": 26,
+    	"title": "Silver Blaze",
+    	"author": "Sir Arthur Conan Doyle",
+    	"url": "https://www.thetimes.co.uk/imageserver/image/methode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F2949f962-6e2e-11e8-b8aa-6e92c706c88b.jpg?crop=2508%2C1411%2C0%2C0&resize=685"
+    },
+
+    {
+    	"id": 27,
+    	"title": "Yellow Face",
+    	"author": "Sir Arthur Conan Doyle",
+    	"url": "https://www.thetimes.co.uk/imageserver/image/methode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F2949f962-6e2e-11e8-b8aa-6e92c706c88b.jpg?crop=2508%2C1411%2C0%2C0&resize=685"
+    },
+
+    {
+    	"id": 28,
+    	"title": "The Stockbroker's Clerk",
+    	"author": "Sir Arthur Conan Doyle",
+    	"url": "https://www.thetimes.co.uk/imageserver/image/methode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F2949f962-6e2e-11e8-b8aa-6e92c706c88b.jpg?crop=2508%2C1411%2C0%2C0&resize=685"
+    },
+
+    {
+    	"id": 29,
+    	"title": "The “Gloria Scott”",
+    	"author": "Sir Arthur Conan Doyle",
+    	"url": "https://www.thetimes.co.uk/imageserver/image/methode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F2949f962-6e2e-11e8-b8aa-6e92c706c88b.jpg?crop=2508%2C1411%2C0%2C0&resize=685"
+    },
+
+    {
+    	"id": 30,
+    	"title": "The Musgrave Ritual",
+    	"author": "Sir Arthur Conan Doyle",
+    	"url": "https://www.thetimes.co.uk/imageserver/image/methode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F2949f962-6e2e-11e8-b8aa-6e92c706c88b.jpg?crop=2508%2C1411%2C0%2C0&resize=685"
+    }
+    
+  ],
+  
+  "reviews": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "bookId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+
+}
