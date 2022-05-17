@@ -1,7 +1,5 @@
 {
-  "success":true,
-  "message":"List of books",
-  "data": [
+  "books": [
     {
       "id": 1,
       "title": "json-server",
